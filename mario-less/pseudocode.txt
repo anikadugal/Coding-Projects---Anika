@@ -1,0 +1,3 @@
+Prompt user for height
+If height is less than 1, or greater than 8, repeat prompt (i.e. go back a step)
+use nested loops: in loop j, print i hashs then newline
