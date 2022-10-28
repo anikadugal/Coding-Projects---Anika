@@ -1,0 +1,5 @@
+Prompt user to input number
+Calculate the checksum (based on whether checksum's final digit is or isn't zero)
+Check for card length and starting digits
+Print AMEX, MASTERCARD, VISA, or INVALID
+
